@@ -1,0 +1,26 @@
+.formulario_web {
+     width: 50%;
+    margin: auto;
+    background-size: cover;
+    background-color: #ffffffb8;
+      padding: 2em;
+      border: 1px solid #ddd;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 20px;
+  }
+  
+#areaTexto {
+    height: 200px;
+    width: 100%;
+    resize: none;
+}
+
+.errorMensaje{
+    background-color: red;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+}
+
